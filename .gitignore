@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+env/
+
+# Python compiled files
+*.pyc
+__pycache__/
+
+# OS generated files
+.DS_Store
+*.swp
+
+# IDE and editor files
+*.vscode/
+*.idea/
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# Dependency files (if managed externally)
+requirements.txt  # Uncomment if you manage dependencies separately
+
+# AWS-specific ignores (if applicable)
+*.log
+*.zip
+*.out
+
+# Documentation build output (if generated)
+docs/_build/
